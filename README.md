@@ -1,4 +1,3 @@
-## Hi there 👋
 # Antoine Rebeiz
 Full-Stack Engineer specializing in AI-powered SaaS applications.
 
