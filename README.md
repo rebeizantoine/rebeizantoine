@@ -1,5 +1,6 @@
 # Antoine Rebeiz
-Full-Stack Engineer building production-ready AI SaaS systems (MERN + RAG + AWS)
+
+Software Developer focused on Backend & AI Applications.
 
 ## 🚀 What I Build
 - AI SaaS products with real-world use cases (RAG, document ingestion, LLM workflows)
