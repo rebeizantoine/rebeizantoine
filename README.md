@@ -11,31 +11,59 @@ Software Developer focused on Backend & AI Applications.
 
 ## 🧠 Featured Projects
 
-### AI Customer Support SaaS
-AI chatbot platform for businesses that answers customer questions using their own data.
-
-- Multi-tenant architecture (store-based isolation)
-- RAG pipeline (document ingestion → chunking → embeddings → retrieval)
-- Stripe subscription system
-- AWS S3 file storage and processing
-
 ### PromptSphere
-Multi-LLM orchestration system that compares responses and selects the best output.
+AI SaaS platform integrating multiple LLMs for Q&A, document generation, and natural-language CSV analysis.
 
-- Integrated OpenAI, Claude, and Mistral
-- Smart response selection logic
-- Basic vs Pro mode architecture
-- Designed for performance and reliability
+- Multi-LLM integration
+- AI-powered document and email generation
+- Natural-language CSV analysis
+- Coding challenge generation
+- React, Node.js, Express.js, MongoDB, TypeScript
 
-### JDDesigns Platform
-Full-stack production-style application with CRUD, auth, and media handling.
+### DocuMind
+AI-powered document Q&A application using RAG and semantic search.
+
+- Document ingestion and processing
+- Semantic search and retrieval
+- Grounded AI responses
+- RAG-based architecture
+
+### JDDesigns
+Full-stack MERN e-commerce platform for custom metal design products.
+
+- Authentication and CRUD functionality
+- Stripe payment integration
+- Admin dashboard
+- Media handling
+- React, Node.js, Express.js, MongoDB
+
+### Bridging Brushes
+Full-stack platform connecting artists with collectors.
+
+- Artist profiles and artwork collections
+- Dynamic content management
+- Artwork browsing and exhibitions
+- React, Node.js, Express.js, MongoDB
 
 ## ⚙️ Tech Stack
-React • Node.js • Express • MongoDB • AWS • Stripe • Redis • Tailwind
 
-## 🎯 Focus
-Currently focused on building scalable AI SaaS platforms and improving system design skills.
+**Languages:** JavaScript · TypeScript · Python · C#
 
-## 📫 Contact
+**Backend:** Node.js · Express.js · ASP.NET Core · FastAPI · REST APIs
+
+**Frontend:** React.js · Next.js · HTML5 · CSS3 · Tailwind CSS
+
+**Databases:** PostgreSQL · MySQL · SQL Server · MongoDB
+
+**AI:** RAG · LLM APIs · OpenAI SDK · Google ADK
+
+**Cloud & Tools:** AWS · Git · GitHub · Linux
+
+## 🎯 Current Focus
+
+Building scalable backend systems and AI-powered applications, with a focus on RAG, LLM integrations, system design, and cloud development.
+
+## 📫 Connect
+
 - LinkedIn: https://linkedin.com/in/antoine-rebeiz
 - Portfolio: https://antoineportfolio.site
