@@ -3,10 +3,11 @@
 Software Developer focused on Backend & AI Applications.
 
 ## 🚀 What I Build
-- AI SaaS products with real-world use cases (RAG, document ingestion, LLM workflows)
-- Scalable backend systems (Node.js, Express, MongoDB)
-- Subscription-based platforms (Stripe integration)
-- Cloud-powered applications (AWS S3, deployment)
+
+- AI-powered applications using RAG, LLMs, embeddings, and document processing
+- Backend systems and REST APIs using Node.js, Express.js, and TypeScript
+- Full-stack SaaS applications with authentication, subscriptions, and payments
+- Cloud-based applications using AWS and modern deployment workflows
 
 ## 🧠 Featured Projects
 
